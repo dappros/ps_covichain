@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1044836348423",
+    "firebase_url": "https://dappros-messenger.firebaseio.com",
+    "project_id": "dappros-messenger",
+    "storage_bucket": "dappros-messenger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044836348423:android:74dfbd8bdec9e83538f0a2",
+        "android_client_info": {
+          "package_name": "com.dapprosmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044836348423-i6atshjmqb11j676qcs4piu8d58qidfu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dapprosmessenger",
+            "certificate_hash": "a634bca0e9550bd78c136e6fd1fc546ed9006ede"
+          }
+        },
+        {
+          "client_id": "1044836348423-b99a55ndrhvu6dlt5d3k755lmvtrgd4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB46D83bTDA-cCPTvOTt9MOf0_AWvaQBAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044836348423-b99a55ndrhvu6dlt5d3k755lmvtrgd4r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1044836348423-9mqg8p2bc5176c1japea5pssitjmmoj8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dapprosmessenger"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
